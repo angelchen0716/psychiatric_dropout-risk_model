@@ -1,0 +1,6 @@
+{
+  "high_cut": 0.01,
+  "youden_cut": 0.34,
+  "prevalence": 0.353,
+  "auc": 0.844
+}
