@@ -296,3 +296,4 @@ else:
         "Evaluation based on held‑out test set created during simulation. "
         "For real deployment, replace with hospital EHR data (IRB) and re‑run end‑to‑end."
     )
+
